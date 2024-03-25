@@ -1,0 +1,1 @@
+Name = sushantAge =21salary =100000
